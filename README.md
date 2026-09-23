@@ -1,2 +1,2 @@
 # samplegithubrepo
-creating and testing the repo
+creating and testing the repo.Created  succesfuuly.
